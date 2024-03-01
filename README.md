@@ -1,6 +1,7 @@
 # Projet de Formulaire de Contact Sécurisé 🛡️
 
 Ce projet implémente un formulaire de contact web sécurisé, mettant l'accent sur les meilleures pratiques de sécurité dès la conception. Il permet aux utilisateurs de soumettre leurs informations de contact de manière sécurisée et fiable.
+Réalisé par Maximilien DELIBES-HOUDAYER & Géo MERCORE
 
 ## 🚀 Technologies Utilisées
 
@@ -38,4 +39,4 @@ Pour lancer le projet :
 Les contributions sont les bienvenues ! N'hésitez pas à soumettre des pull requests ou à créer des issues pour toute question ou suggestion.
 
 ## POST SCRIPTUM
-# Le rendu en tant que tel est le pdf se trouvant dans le dossier, tout y est expliqué en détail
+Le rendu en tant que tel est le pdf se trouvant dans le dossier, tout y est expliqué en détail
