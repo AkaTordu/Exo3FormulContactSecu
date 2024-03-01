@@ -34,9 +34,5 @@ Pour lancer le projet :
 2. Installez les dépendances avec `npm install`.
 3. Démarrez le serveur avec `npm start`.
 
-## 🤝 Contribution
-
-Les contributions sont les bienvenues ! N'hésitez pas à soumettre des pull requests ou à créer des issues pour toute question ou suggestion.
-
 ## POST SCRIPTUM
 Le rendu en tant que tel est le pdf se trouvant dans le dossier, tout y est expliqué en détail
